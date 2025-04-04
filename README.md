@@ -20,5 +20,6 @@ CSS3 (Flexbox & Grid kullanımı dahil)
 
 #Ekran Görüntüsü 
 
-![coffe-shop](https://github.com/user-attachments/assets/53bd0bb7-d656-4cfd-a04e-1bc356a94cc9)
+
+![coffe-shop](https://github.com/user-attachments/assets/524f121f-beca-4311-8a2a-961d47237585)
 
