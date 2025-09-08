@@ -23,3 +23,23 @@ CSS3 (Flexbox & Grid kullanımı dahil)
 
 ![coffe-shop](https://github.com/user-attachments/assets/524f121f-beca-4311-8a2a-961d47237585)
 
+
+# Dokümantasyon
+
+Detaylı kullanım ve bileşen belgeleri `docs/` klasöründe mevcuttur:
+
+- `docs/README.md` – Genel dokümantasyon indeksi
+- `docs/getting-started.md` – Başlangıç ve çalışma talimatları
+- `docs/structure.md` – Proje ve sayfa yapısı
+- `docs/components.md` – Bileşenler ve örnekler
+- `docs/styles.md` – Stil sistemi ve değişkenler
+- `docs/javascript.md` – JavaScript davranışı ve kullanım
+- `docs/assets.md` – Varlıklar (görseller)
+- `docs/usage-examples.md` – Sık yapılan işlemler ve kod örnekleri
+
+Hızlı başlatma:
+```bash
+python3 -m http.server 8080
+# http://localhost:8080 adresini ziyaret edin
+```
+
